@@ -1,0 +1,3 @@
+﻿  UnitTests.cpp
+C:\Users\glebs\source\repos\UnitTests\UnitTests.cpp(37,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  UnitTests.vcxproj -> C:\Users\glebs\source\repos\NewProject\x64\Debug\UnitTests.dll
